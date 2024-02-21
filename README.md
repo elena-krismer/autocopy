@@ -15,3 +15,6 @@ The script's behavior can be customized via the config.json file, which contains
 nas_folder: The network drive name of the NAS where the files will be copied. This might vary depending on the machine.
 * `wait_time_size_change_sec`: The duration to wait before checking if the file size has changed within a certain time period (in seconds).
     
+
+## Bat file:
+adjust the path to the local autoscript.py file. double klick the bat file and the program will start
