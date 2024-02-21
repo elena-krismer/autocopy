@@ -1,0 +1,8 @@
+{
+    "copy_wait_time_sec": 600,
+    "file_wait_time_sec": 600,
+    "minimum_size_mb": 100,
+    "source_folder": "D:",
+    "user_folders": {"jquast": "Jan-Philipp/raw_ms_data"},
+    "nas_folder": "Z:"
+}
