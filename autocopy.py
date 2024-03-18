@@ -128,7 +128,7 @@ def main():
                     file_dict[_] = get_full_size_mb(os.path.join(source, _))
 
                 for i in tqdm(range(wait_time_size_change_sec*2)):
-                    time.sleep(0.5)
+                    time.sleep(10)
                 
                 to_copy_ = []
 
